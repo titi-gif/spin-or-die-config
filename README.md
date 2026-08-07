@@ -1,0 +1,1 @@
+# spin-or-die-config
